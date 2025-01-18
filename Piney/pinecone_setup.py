@@ -22,7 +22,7 @@ spec = ServerlessSpec(
 # Create the index with specified specs
 try:
     pc.create_index(
-        name="example-indsasess1x",  # Replace with your desired index name
+        name="pineyindex",  # Replace with your desired index name
         dimension=3072,        # Embedding dimensions
         metric="cosine",       # Distance metric
         spec=spec              # Capacity mode: Serverless
