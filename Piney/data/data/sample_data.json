@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "text": "This is a sample text for embedding."
+  },
+  {
+    "id": "2",
+    "text": "Another example text entry."
+  },
+  {
+    "id": "3",
+    "text": "More text data for testing embeddings."
+  }
+]

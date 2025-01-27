@@ -1,4 +1,4 @@
-#!/Users/gunnarhostetler/Documents/GitHub/RAG/Piney/piney_env/bin/python3.12
+#!/Users/gunnarhostetler/Documents/GitHub/RAG/Piney/piney_env/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
